@@ -1,3 +1,5 @@
+wget https://pjreddie.com/media/files/yolov3.weights
+
 unzip darknet-e2k.zip
 
 cd darknet
